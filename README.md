@@ -22,7 +22,7 @@ You will also need API keys for:
 ### Installation Steps
 
 1. Clone the repository
-  git clone https://github.com/<your_username>/ai-voice-assistant.git
+  git clone https://github.com/Kevin-Andries/ai-voice-assistant
 
 2. Navigate to the project directory
   cd ai-voice-assistant
