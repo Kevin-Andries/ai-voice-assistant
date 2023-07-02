@@ -61,12 +61,6 @@ Your contributions are greatly appreciated.
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-
-Your Name - your@email.com
-
-Project Link: https://github.com/your_username/ai-voice-assistant
-
 ---
 
 Enjoy your interactions with your new AI voice assistant!
